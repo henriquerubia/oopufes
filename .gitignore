@@ -1,0 +1,12 @@
+# workspace metadata
+.metadata
+
+# class files
+*/bin/
+*/target/
+
+*~
+
+# IntelliJ IDEA
+.idea
+*.iml
