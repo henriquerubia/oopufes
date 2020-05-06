@@ -13,6 +13,7 @@ All projects in this repository were developed exclusively for academic and lear
 ## Projetos / Projects
 
 - **com.henriquerubia.testecliente**: demonstração de manipulação simples de atributos de classes.
+- **com.henriquerubia.comprascliente**: demonstração de override, métodos de classe e uso simples do `Date()`.
 
 ## Autor / Author
 
