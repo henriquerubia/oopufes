@@ -16,6 +16,7 @@ All projects in this repository were developed exclusively for academic and lear
 - **com.henriquerubia.comprascliente**: demonstração de override, métodos de classe e uso simples do `Date()`.
 - **com.henriquerubia.encapsulamentocliente**: demonstração de encapsulamento, mutadores (setters) e acessores (getters).
 - **com.henriquerubia.polimorfismocliente**: demonstração de polimorfismo e implementação de *List*, *ArrayList* e *LinkedList*.
+- **com.henriquerubia.transporte**: demonstração do princípio de polimorfismo.
 
 ## Autor / Author
 
