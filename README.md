@@ -19,6 +19,7 @@ All projects in this repository were developed exclusively for academic and lear
 - **com.henriquerubia.transporte**: demonstração do princípio de polimorfismo.
 - **com.henriquerubia.leitos**: demonstração de polimorfismo.
 - **com.henriquerubia.livrosdvd**: utilização de polimorfismo, herança, vectors, super keyword.
+- **com.henriquerubia.ingressos**: aplicação de polimorfismo e herança.
 
 ## Autor / Author
 
