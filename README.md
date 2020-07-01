@@ -21,6 +21,7 @@ All projects in this repository were developed exclusively for academic and lear
 - **com.henriquerubia.livrosdvd**: utilização de polimorfismo, herança, vectors, super keyword.
 - **com.henriquerubia.ingressos**: aplicação de polimorfismo e herança.
 - **com.henriquerubia.imoveis**: aplicação de polimorfismo e herança.
+- **com.henriquerubia.funcionario**: aplicação de polimorfismo e herança.
 
 ## Autor / Author
 
