@@ -17,6 +17,7 @@ All projects in this repository were developed exclusively for academic and lear
 - **com.henriquerubia.encapsulamentocliente**: demonstração de encapsulamento, mutadores (setters) e acessores (getters).
 - **com.henriquerubia.polimorfismocliente**: demonstração de polimorfismo e implementação de *List*, *ArrayList* e *LinkedList*.
 - **com.henriquerubia.transporte**: demonstração do princípio de polimorfismo.
+- **com.henriquerubia.leitos**: demonstração de polimorfismo.
 
 ## Autor / Author
 
