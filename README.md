@@ -18,6 +18,7 @@ All projects in this repository were developed exclusively for academic and lear
 - **com.henriquerubia.polimorfismocliente**: demonstração de polimorfismo e implementação de *List*, *ArrayList* e *LinkedList*.
 - **com.henriquerubia.transporte**: demonstração do princípio de polimorfismo.
 - **com.henriquerubia.leitos**: demonstração de polimorfismo.
+- **com.henriquerubia.livrosdvd**: utilização de polimorfismo, herança, vectors, super keyword.
 
 ## Autor / Author
 
